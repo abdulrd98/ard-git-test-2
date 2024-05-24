@@ -6,8 +6,15 @@
     <title>Coba Git Remote</title>
   </head>
   <body>
-    php
     <h1>hello world</h1>
-    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel, aliquid ipsa. Dolor quis ipsam et quaerat rerum soluta ipsa quia. Nam nulla dolorum doloremque quaerat, consectetur maiores iste facilis possimus!</p>
+    <p>
+      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel, aliquid
+      ipsa. Dolor quis ipsam et quaerat rerum soluta ipsa quia. Nam nulla
+      dolorum doloremque quaerat, consectetur maiores iste facilis possimus!
+    </p>
+    <ul>
+      <li>satu</li>
+      <li>dua</li>
+    </ul>
   </body>
 </html>
